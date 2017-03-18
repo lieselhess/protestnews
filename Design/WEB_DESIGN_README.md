@@ -1,7 +1,7 @@
 # Web Design for Protest News
 
 
-## Planning phase (updated 3/4/2017):
+## Planning phase (updated 3/18/2017):
 
 * Bootstrap, responsive layout: http://getbootstrap.com/
 * Tiled card design. See "protestdesigntemplate.png" in this directory. Other sites with tiled card designs for comparison: http://pinterest.com  https://www.uxpin.com/knowledge.html http://www.kelseydrake.com/ https://www.awwwards.com/blog/
